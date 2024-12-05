@@ -126,6 +126,6 @@ nav ul li a:hover {
 
 } */
 
-body::after {
+/* body::after {
     clip-path: circle(50% at center);
-}
+} */
