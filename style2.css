@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Lato&family=Open+Sans:ital,wght@0,700;1,700&family=Pacifico&family=Roboto:wght@300&family=Ubuntu&display=swap');
 body {
   background-color: #eee;
 }
@@ -23,6 +24,14 @@ tr :nth-child(even) {
 
 tr :nth-child(odd) {
   background-color: rgba(165, 71, 42, 0.342);
+}
+a {
+
+  text-decoration: none;
+  font-size: 2rem;
+  font-weight: 600;
+  font-family:'family dancing';
+  color: rgba(165, 42, 42, 0.76);
 }
 form {
   padding: 5px;
